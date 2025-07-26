@@ -1,0 +1,20 @@
+.loginform{
+    border: 1px solid rgb(10, 38, 164);
+    text-align: center;
+    margin-left: auto;
+    width: 300px;
+    height: 300px;
+    margin-right: auto;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 200px;
+}
+.email{
+    margin-right: 100px;
+}
+.emaillabel{
+    margin-right: 100px;
+}
+.emailinput{
+    margin-right: 300px;
+}
+
